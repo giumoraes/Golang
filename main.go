@@ -22,6 +22,6 @@ func main() {
 	contaDaCris = new(ContaCorrente)
 	contaDaCris.titular = "Cris"
 
-	fmt.Println(contaDaCris)
+	fmt.Println(contaDaCris, ".")
 
 }
